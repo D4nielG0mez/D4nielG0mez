@@ -8,6 +8,10 @@
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
 
+<a href="https://x.com/ColorTi58634" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/X-blue?style=for-the-badge&logo=x&logoColor=white" alt="X">
+</a>
+
 <hr></hr>
 I´m a motivated security analyst seeking an entry-level cybersecurity position to apply my skills in network security, security policy, and organizational risk management.
 

@@ -49,9 +49,10 @@ My background in IT has led me to develop a passion for cybersecurity and I am n
 <a href="https://www.coursera.org/account/accomplishments/professional-cert/FEQENP66OXMA?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Coursera-Certificate-blue?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Certificate">
 </a>
+<p></p>
 - Analista SOC Nivel 1
 <a href="https://badgr.com/public/assertions/PyuRQSgfS0Ou9Ll8HqrlLA" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/ComunidadDojo-Certificate-Red?style=for-the-badge&logo=badge&logoColor=white" alt="Badgr Certificate">
+  <img src="https://img.shields.io/badge/ComunidadDojo-Certificate-red?style=for-the-badge&logo=badge&logoColor=white" alt="Badgr Certificate">
 </a>
 
 ## Projects

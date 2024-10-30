@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/luisdanielgomezfarfan97/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-
+<p></p>
 <a href="https://www.linkedin.com/in/luisdanielgomezfarfan97/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>

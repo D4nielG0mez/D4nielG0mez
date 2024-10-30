@@ -1,12 +1,29 @@
 ## Hello, I´m Luis Daniel Gómez Farfán 😎
 
-<a href="https://www.linkedin.com/in/luisdanielgomezfarfan97/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<p></p>
-<a href="https://www.linkedin.com/in/luisdanielgomezfarfan97/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Íconos uno al lado del otro</title>
+    <style>
+        .icon-container {
+            display: inline-flex; /* Permite alinear los íconos horizontalmente */
+            gap: 10px; /* Espacio entre los íconos */
+        }
+    </style>
+</head>
+<body>
+    <div class="icon-container">
+        <a href="https://www.linkedin.com/in/luisdanielgomezfarfan97/" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+        <a href="https://www.linkedin.com/in/luisdanielgomezfarfan97/" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+    </div>
+</body>
+</html>
 
 <hr></hr>
 I´m a motivated security analyst seeking an entry-level cybersecurity position to apply my skills in network security, security policy, and organizational risk management.

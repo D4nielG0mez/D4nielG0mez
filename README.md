@@ -31,7 +31,11 @@ My background in IT has led me to develop a passion for cybersecurity and I am n
 ## Tools
 
 ### Network
-
+- IDS/IPS (Intrusion Detection/Prevention Systems)
+- Network Monitoring Software
+- Firewalls
+- VPN (Virtual Private Network) Tools
+- Packet Sniffers
 ### Endpoint
 
 ### SIEM

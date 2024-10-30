@@ -51,6 +51,7 @@ My background in IT has led me to develop a passion for cybersecurity and I am n
 </a>
 <p></p>
 - Analista SOC Nivel 1
+<p></p>
 <a href="https://badgr.com/public/assertions/PyuRQSgfS0Ou9Ll8HqrlLA" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/ComunidadDojo-Certificate-red?style=for-the-badge&logo=badge&logoColor=white" alt="Badgr Certificate">
 </a>

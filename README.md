@@ -37,10 +37,21 @@ My background in IT has led me to develop a passion for cybersecurity and I am n
 - VPN (Virtual Private Network) Tools
 - Packet Sniffers
 ### Endpoint
-
+- Antivirus Software
+- Endpoint Detection and Response (EDR) Tools
+- Patch Management Software
+- Device Control Solutions
+- Disk Encryption Tools
 ### SIEM
-
+- Wazuh 4.9
 ## Certifications
+<a href="https://www.coursera.org/account/accomplishments/professional-cert/FEQENP66OXMA?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Coursera-Certificate-blue?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Certificate">
+</a>
+
+<a href="https://badgr.com/public/assertions/PyuRQSgfS0Ou9Ll8HqrlLA" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Badgr-Certificate-blue?style=for-the-badge&logo=badge&logoColor=white" alt="Badgr Certificate">
+</a>
 
 ## Projects
 <!--

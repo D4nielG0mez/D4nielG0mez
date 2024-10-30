@@ -3,6 +3,11 @@
 <a href="https://www.linkedin.com/in/luisdanielgomezfarfan97/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+
+<a href="https://www.linkedin.com/in/luisdanielgomezfarfan97/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
 <hr></hr>
 I´m a motivated security analyst seeking an entry-level cybersecurity position to apply my skills in network security, security policy, and organizational risk management.
 

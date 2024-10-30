@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://x.com/ColorTi58634" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="YouTube">
 </a>
 
 <hr></hr>

@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Daniel Gómez
 
-<!--
-**D4nielG0mez/D4nielG0mez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Bachiller en ciencias de informática y sistemas.
+- 💻 Technical Support
+- 🕵️ Pentester  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Sobre mí
+
+Bachiller en Ciencias de Informática y Sistemas, con experiencia en seguridad de la información, cumplimiento de controles y auditoría conforme a la norma ISO/IEC 27001. Actualmente, me encuentro en proceso de certificación eWPTX, profundizando mis conocimientos avanzados en pruebas de penetración web, incluyendo técnicas modernas de evasión, explotación de vulnerabilidades complejas, uso de ataques personalizados y evaluación de aplicaciones web en entornos empresariales.
+
+---

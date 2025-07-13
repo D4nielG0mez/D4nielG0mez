@@ -8,6 +8,6 @@
 
 ## 💻 Sobre mí
 
-Bachiller en Ciencias de Informática y Sistemas, con experiencia en seguridad de la información, cumplimiento de controles y auditoría conforme a la norma ISO/IEC 27001. Actualmente, me encuentro en proceso de certificación eWPTX, profundizando mis conocimientos avanzados en pruebas de penetración web, incluyendo técnicas modernas de evasión, explotación de vulnerabilidades complejas, uso de ataques personalizados y evaluación de aplicaciones web en entornos empresariales.
+Bachiller en Ciencias de Informática y Sistemas, con formación en ciberseguridad y enfoque en pruebas de penetración web. Actualmente me encuentro en proceso de certificación eWPTXv3, mediante el cual profundizo en técnicas avanzadas de explotación, evasión de controles y análisis de aplicaciones en entornos empresariales. Como base de mi preparación me familiarizo con OWASP TOP 10 & OWASP WSTG, el cual consulto continuamente para estructurar mis evaluaciones de seguridad. Además, me preparo para obtener la certificación Burp Suite Certified Practitioner, fortaleciendo mi dominio de herramientas y metodologías de análisis profesional.
 
 ---

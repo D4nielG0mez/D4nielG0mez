@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Daniel Gómez 🕵️‍♀️ 
+# Hi there 👋, I'm Daniel Gómez 🕵️‍♀️ 
 
 - Bachelor of Science in Computer Science and Systems 🎓 
 - Technical Support 💻🛠️🔧

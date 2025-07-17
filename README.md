@@ -1,13 +1,13 @@
-# 👋 ¡Hola! Soy Daniel Gómez
+# 👋 Hi I'm Daniel Gómez 🕵️‍♀️ 
 
-- 🎓 Bachiller en ciencias de informática y sistemas.
-- 💻 Technical Support
-- 🕵️ Pentester  
+- Bachelor of Science in Computer Science and Systems 🎓 
+- Technical Support 💻🛠️🔧
+- Web Application Pentester 💻🛡️🔍
 
 ---
 
-## 💻 Sobre mí
+## About me 🙋‍♂️
 
-Bachiller en Ciencias de Informática y Sistemas, con formación en ciberseguridad y enfoque en pruebas de penetración web. Actualmente me encuentro en proceso de certificación eWPTXv3, mediante el cual profundizo en técnicas avanzadas de explotación, evasión de controles y análisis de aplicaciones en entornos empresariales. Como base de mi preparación me familiarizo con OWASP TOP 10 & OWASP WSTG, el cual consulto continuamente para estructurar mis evaluaciones de seguridad. Además, me preparo para obtener la certificación Burp Suite Certified Practitioner, fortaleciendo mi dominio de herramientas y metodologías de análisis profesional.
+Bachelor in Computer Science and Systems with training in cybersecurity and a focus on web penetration testing. Currently preparing for the eWPTXv3 certification, enhancing my skills in advanced exploitation, control evasion, and vulnerability detection. I regularly reference the OWASP Top 10 and WSTG to guide my assessments. I'm also completing the PortSwigger labs to earn the Burp Suite Certified Practitioner (BSCP) certification, further improving my proficiency with professional tools and methodologies.
 
 ---

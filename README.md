@@ -12,3 +12,5 @@ I'm a Computer Science and Systems graduate with a strong interest in cybersecur
 I'm currently preparing for the eWPTXv3 certification, enhancing my skills in advanced exploitation, control evasion, and vulnerability detection. I regularly reference the OWASP Top 10 and WSTG 📘 to guide my assessments. I'm also completing PortSwigger labs to earn the Burp Suite Certified Practitioner (BSCP) 🛡️ certification.
 
 ---
+
+> **Advice:**  Public programs regularly expand their reach, adding new domains, IP addresses, services, or features.
